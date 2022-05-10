@@ -1,0 +1,6 @@
+
+First name: Yuliia
+Last name: Shevel
+Age: 27
+Pets: cat Barsik
+Salary: 450
